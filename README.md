@@ -1,2 +1,3 @@
 # Torchin_Rinaldi
-Description
+
+Ceci, est notre tout premier projet github.
