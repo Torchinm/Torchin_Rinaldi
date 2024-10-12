@@ -5,6 +5,7 @@
 2. [Objectifs du projet](#objectifs-du-projet)
 3. [Structure du Wiki](#structure-du-wiki)
 4. [Ressources et références](#ressources-et-références)
+5. [Conception](#Conception)
 
 ## Introduction
 
@@ -35,3 +36,7 @@ Vous trouverez ici les ressources externes et les références utilisées dans l
 - [DNDE Des frères Lisoirs - YouTube Channel](https://www.youtube.com/@hugolisoiryoutube)
 - [C'est pas sorcier - Trou noir (YouTube Vidéo)](https://www.youtube.com/watch?v=ymEzkLAzv4w)
 - [Science Trash - YouTube Channel](https://www.youtube.com/@sciencetrash)
+
+## Conception
+
+Nous avons recontré quelques difficultés lors de la conception, notamment pour l'intégration d'images (résolu rapidement) et la mise en page. Nous sommes arrivés à trouver le moyen de redimensionner les images mais cependant il nous est impossible de trouver un moyen purement wikicode pour faire de la mise en page.
