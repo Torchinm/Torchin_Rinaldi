@@ -5,7 +5,7 @@
 2. [Objectifs du projet](#objectifs-du-projet)
 3. [Structure du Wiki](#structure-du-wiki)
 4. [Ressources et références](#ressources-et-références)
-5. [Conception](#Conception)
+5. [Conception](#conception)
 
 ## Introduction
 
@@ -20,7 +20,7 @@ Ce Wiki est une illustration de notre volonté à expliquer le monde spatial aux
 
 Voici la structure générale du wiki. Vous pouvez naviguer dans les pages et sections suivantes pour explorer les différents thèmes abordés :
 
-- **[Accueil](https://github.com/[ton-repo]/wiki/Home](https://github.com/Torchinm/Torchin_Rinaldi/wiki))**
+- **[Accueil](https://github.com/Torchinm/Torchin_Rinaldi/wiki)**
 - **[Étoiles](https://github.com/Torchinm/Torchin_Rinaldi/wiki/%C3%89toiles)**
 - **[Planètes](https://github.com/Torchinm/Torchin_Rinaldi/wiki/Plan%C3%A8tes)**
 - **[Trous noirs](https://github.com/Torchinm/Torchin_Rinaldi/wiki/Trou-noir)**
@@ -32,10 +32,10 @@ Voici la structure générale du wiki. Vous pouvez naviguer dans les pages et se
 Vous trouverez ici les ressources externes et les références utilisées dans le wiki :
 
 - [Wikipédia](https://fr.wikipedia.org/)
-- [Vulgarisateur Dimension - YouTube Channel](https://www.youtube.com/@DIMENSI0N/featured)
-- [DNDE Des frères Lisoirs - YouTube Channel](https://www.youtube.com/@hugolisoiryoutube)
-- [C'est pas sorcier - Trou noir (YouTube Vidéo)](https://www.youtube.com/watch?v=ymEzkLAzv4w)
-- [Science Trash - YouTube Channel](https://www.youtube.com/@sciencetrash)
+- [Vulgarisateur Dimension](https://www.youtube.com/@DIMENSI0N/featured)
+- [DNDE Des frères Lisoirs](https://www.youtube.com/@hugolisoiryoutube)
+- [C'est pas sorcier](https://www.youtube.com/watch?v=ymEzkLAzv4w)
+- [Science Trash](https://www.youtube.com/@sciencetrash)
 
 ## Conception
 
